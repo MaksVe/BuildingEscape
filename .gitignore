@@ -1,0 +1,19 @@
+##########################
+# Unreal Generated Files #
+##########################
+.vs/
+Build/
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Content/StarterContent/Textures/
+Content/StarterContent/HDRI/
+
+######################
+# VS Generated Files #
+######################
+*.VC.db
+*.suo
+*.VC.opendb
+*.sln
